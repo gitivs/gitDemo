@@ -7,6 +7,8 @@ public class Basic_TestNg {
 	public void Demo()
 	{
 		System.out.println("Hello");
+		System.out.println("Hello");
+		System.out.println("Hello");
 	}
 	
 	@Test
