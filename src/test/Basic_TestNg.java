@@ -16,4 +16,10 @@ public class Basic_TestNg {
 	{
 		System.out.println("Bye");
 	}
+	
+	@Test
+	public void Demo2()
+	{
+		System.out.println("Bye");
+	}
 }
